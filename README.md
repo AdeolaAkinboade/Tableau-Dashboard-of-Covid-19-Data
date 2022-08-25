@@ -17,13 +17,13 @@ Which population has the highest infection rate per location?
 AIM
 
 For the Covid-19 Data Exploration information to be easily presented, whilst using the raw data at a glance, to understand the entire investigation,
-understand where the statistics were drawn from and easily see how conclusions were summarised and drawn.
+understand where the statistics were drawn from and easily see how conclusions were summarized and drawn.
 
 METHODOLOGY
 
 The SQL queries from the 'Covid-19 Data Exploration' project was used.
 The Data obtained from the project was converted into an Excel 'xlsx' file.
-The data that was moved from MS SQL server into MS Excelm workbook was cleaned.
+The data that was moved from MS SQL server into MS Excel workbook was cleaned.
 Cleaning involved removing any 'Null' values ,and converting commas into periods(for Tableau to read the information as numerical and not strings).
 After the data cleaning, the relevant data was copied and saved into four different workbooks
 The four workbooks were uploaded onto different Tableau Sheets and each Sheet represented a different visualization of Covid-19 data
