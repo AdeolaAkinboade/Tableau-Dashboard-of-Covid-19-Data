@@ -39,6 +39,8 @@ Europe has the highest death toll rate from Covid-19 ,in comparison to other con
 
 Faeroe Island has the highest infection rate per location,standing at 65%
 
+
+
 Overall, this project was able to answer the three investigation questions asked in the beginning :
 
 What is the projected forecast of Covid-19 infections per population?
